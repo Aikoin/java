@@ -100,6 +100,7 @@ public class StringDemo {
 //		String str6 = new String(str1.getBytes(),"UTF-8");
 //		System.out.println(str6);
 	
+		
 	}
 	
 }
