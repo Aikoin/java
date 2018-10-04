@@ -13,7 +13,13 @@ public class BoxingDemo {
 //		Character.isJavaIdentifierStart(ch);
 //		Character.isUpperCase(ch);
 //		Character.isLowerCase(ch);
+		
+//		int a = 5;
+//		Integer a1 = new Integer(a);
+//		a = a1.intValue();		
 //		
+		
+		
 		//题目：判断用户输入的字符串是不是一个纯数字
 		boolean _isDigit = true;
 		System.out.println("请输入一个字符串：");
